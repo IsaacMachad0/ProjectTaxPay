@@ -1,0 +1,15 @@
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.AssemblyInfo.cs
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\bin\Debug\net6.0\ExerciseTaxPay.exe
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\bin\Debug\net6.0\ExerciseTaxPay.deps.json
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\bin\Debug\net6.0\ExerciseTaxPay.runtimeconfig.json
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\bin\Debug\net6.0\ExerciseTaxPay.dll
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\bin\Debug\net6.0\ExerciseTaxPay.pdb
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.dll
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\refint\ExerciseTaxPay.dll
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.pdb
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ExerciseTaxPay.genruntimeconfig.cache
+C:\Users\User\Documents\ProjectsEstudying\Section_10\ExerciseTaxPay\obj\Debug\net6.0\ref\ExerciseTaxPay.dll
